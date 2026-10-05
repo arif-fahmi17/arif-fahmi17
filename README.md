@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arif Fahmi
 
-<!--
-**arif-fahmi17/arif-fahmi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering and AI
 
-Here are some ideas to get you started:
+## About me
+- Studying: CS230, UiTM
+- Currently learning: CS649
+- My FYP area: still deciding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+C++, Java, SQL, HTML, AI
+
+## Projects
+- [arif-fahmi17] https://github.com/arif-fahmi17 : About Me
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/arif-fahmi-mohammad-zamri-749780288/
+- Email: arif.fhmi17@gmail.com
