@@ -11,7 +11,6 @@ I like coffee
 C++, Java, SQL, HTML, CSS, AI
 
 ## Projects
-- [arif-fahmi17] https://github.com/arif-fahmi17 : About Me
 - [campus-shuttle-route-recommendation] https://github.com/arif-fahmi17/campus-shuttle-route-recommendation: Web-Based Campus Shuttle Route Recommendation System
 
 ## Contact
